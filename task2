@@ -1,0 +1,4 @@
+Task-2
+1. What are the units of the signal amplitude and FAS amplitude? Add it as the y-label of the plot.
+2. Convert the .py or .m script into a code that loops over all the .txt files present in the directory. You can use jupyter notebook as well
+3. Validate the Fourier spectra amplitude of the event with the corresponding amplitude reported in the ESM flatfile. Check for the corresponding event id in the flatfile. 
